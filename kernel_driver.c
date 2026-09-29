@@ -56,8 +56,8 @@ int main(){
   unsigned long long t0, t1;
 
   //TODO: Change this according to your calculations for the size of the kernel
-  int m = 6;  //m is the number of rows of C
-  int n = 8;  //n is the number of columns of C
+  int m = 8;  //m is the number of rows of C
+  int n = 6;  //n is the number of columns of C
 
   /*
     Assume the following
